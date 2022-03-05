@@ -1,4 +1,6 @@
-keep thinking and running.
+Year of 2022:
+- Build a note system with vscode
+- To plan
 
 <!---
 - 👋 Hi, I’m @jeffatoptics
