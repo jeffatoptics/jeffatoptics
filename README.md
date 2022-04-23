@@ -1,13 +1,4 @@
 Year of 2022:
-- Build a note system with vscode
-- To plan
-
-<!---
-- 👋 Hi, I’m @jeffatoptics
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-jeffatoptics/jeffatoptics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- read books and make notes
+- my documentation project work
+- my simulation tool work
