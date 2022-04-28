@@ -8,5 +8,5 @@ Year of 2022:
 
 ```
 
-my github summary is at webpage [https://jeffatoptics.github.io/](https://jeffatoptics.github.io/)
+[https://jeffatoptics.github.io/](https://jeffatoptics.github.io/)
 
